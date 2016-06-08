@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:08.662900
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:06
 #+TITLE: 佛說天公經
 #+PROPERTY: CBETA_ID W01n0014b
 #+PROPERTY: ID KR6v0016
@@ -12,7 +12,7 @@
 #+PROPERTY: JUAN 1
 ¶
 
-錄文二¶
+* 錄文二¶
 ¶
 
  佛說天公經¶
