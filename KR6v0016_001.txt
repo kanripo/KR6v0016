@@ -1,24 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:08.662900
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:06
 #+TITLE: 佛說天公經
 #+PROPERTY: CBETA_ID W01n0014b
 #+PROPERTY: ID KR6v0016
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 01, No. 014b
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6v0016_W_000-0371a>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6v0016_W_001-0371a> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 
-錄文二¶
+* 〔錄文二〕¶
+¶
+佛說天公經¶
 ¶
 
- 佛說天公經¶
-¶
-
-鎘銅灌作柱，象牙作屋，虎珀作屋脊，真珠作羅網，星宿¶
+鎘銅灌作柱，像牙作屋，虎珀作屋脊，真珠作羅網，星宿¶
 作鵲頭，日月作繚窗，可得萬萬九千年。上有一小劫，下有一由¶
 旬。此經雖小，大有威神。亦等《法華》，亦等《涅槃》，亦勝雜¶
 經。譬如東海，喻如太山。入海取寶，隨其多少，亦得重來。入¶
